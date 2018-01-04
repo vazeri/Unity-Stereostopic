@@ -17,7 +17,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Moseover : MonoBehaviour
+public class MouseOver : MonoBehaviour
 {
     //When the mouse hovers over the GameObject, it turns to this color (red)
     Color m_MouseOverColor = Color.yellow;
@@ -36,7 +36,7 @@ public class Moseover : MonoBehaviour
 
     void OnMouseOver()
     {
-        Debug.Log("El color del objeto es amarillo.");
+        Debug.Log("El color del objeto es AMARILLO.");
         //Change the color of the GameObject to red when the mouse is over GameObject
         m_Renderer.material.color = m_MouseOverColor;
         //Replace texture
@@ -45,7 +45,7 @@ public class Moseover : MonoBehaviour
 
     void OnMouseExit()
     {
-        Debug.Log("El color del objeto es blanco.");
+        Debug.Log("El color del objeto es BLANCO.");
         //Reset the color of the GameObject back to normal
         m_Renderer.material.color = m_OriginalColor;
     }

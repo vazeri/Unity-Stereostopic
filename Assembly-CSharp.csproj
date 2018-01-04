@@ -53,6 +53,7 @@
   <ItemGroup>
      <Compile Include="Assets\MouseOver.cs" />
      <Compile Include="Assets\RotateCamera.cs" />
+     <Compile Include="Assets\SwapTexture.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
