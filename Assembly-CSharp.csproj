@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{48CF237C-0512-74DD-1492-D2B8A0972FDD}</ProjectGuid>
+    <ProjectGuid>{30FBC35B-098C-DEFA-E2E2-8740B491CA25}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -53,7 +53,6 @@
   <ItemGroup>
      <Compile Include="Assets\MouseOver.cs" />
      <Compile Include="Assets\RotateCamera.cs" />
-     <Compile Include="Assets\SwapTexture.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
