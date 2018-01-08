@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="01-Unity-Stereostopic.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\StereoCamera.cs">
+    <Files>
+      <File FileName="Assets\Spin.cs" Line="1" Column="1" />
+      <File FileName="Assets\StereoCamera.cs" Line="133" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
